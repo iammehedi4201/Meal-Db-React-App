@@ -1,0 +1,13 @@
+.bg-color{
+    background-color:#EFE2BA!important;
+}
+.About-section{
+
+    background-color:#EFE2BA;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+
+}

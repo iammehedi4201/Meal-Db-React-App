@@ -1,0 +1,19 @@
+.food-details-section{
+     display: flex;
+     justify-content: center;
+     background-color:aliceblue;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.card{
+
+    background-color:aliceblue!important;
+}
+.list-group-item{
+
+    background-color:aliceblue!important;
+}
+.img-size{
+
+     height: 45vh!important;
+
+}
